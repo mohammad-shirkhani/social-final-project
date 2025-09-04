@@ -1,0 +1,583 @@
+ Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+RL Episodes:  95%|▉| 286/300 [00:42<00:01,  8.87it/s, Ep=286, Reward=2.861, Cov=0.164, RMSE=0.9935, MAE=0.8101, Eps=0.23
+[EP287] Reward: 4.160, Cov: 0.631, Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+RL Episodes:  95%|▉| 286/300 [00:42<00:01,  8.87it/s, Ep=287, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.23
+[INFO] Episode 287: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+RL Episodes:  96%|▉| 287/300 [00:42<00:01,  8.92it/s, Ep=287, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.23
+[EP288] Reward: 2.898, Cov: 0.000, Pattern: rated 4 → to a similar item (same genre) → was rated 2 → rated 3
+RL Episodes:  96%|▉| 287/300 [00:42<00:01,  8.92it/s, Ep=288, Reward=2.898, Cov=0.000, RMSE=0.9941, MAE=0.8096, Eps=0.23
+[EP289] Reward: 1.752, Cov: 0.000, Pattern: rated 1 → was rated 4 → rated 4 → to a similar item (same genre)
+RL Episodes:  96%|▉| 287/300 [00:42<00:01,  8.92it/s, Ep=289, Reward=1.752, Cov=0.000, RMSE=0.9941, MAE=0.RL Episodes:  96%|▉| 289/300 [00:42<00:01, 10.60it/s, Ep=289, Reward=1.752, Cov=0.000, RMSE=0.9941, MAE=0.8096, Eps=0.23
+[EP290] Reward: 4.160, Cov: 0.631, Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+RL Episodes:  96%|▉| 289/300 [00:42<00:01, 10.60it/s, Ep=290, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.23
+[INFO] Episode 290: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+
+[EP291] Reward: 4.160, Cov: 0.631, Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+RL Episodes:  96%|▉| 289/300 [00:43<00:01, 10.60it/s, Ep=291, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.23
+[INFO] Episode 291: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+RL Episodes:  97%|▉| 291/300 [00:43<00:00,  9.80it/s, Ep=291, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.23
+[EP292] Reward: 2.898, Cov: 0.000, Pattern: rated 4 → was rated 3 → rated 4 → to a similar item (same genre)
+RL Episodes:  97%|▉| 291/300 [00:43<00:00,  9.80it/s, Ep=292, Reward=2.898, Cov=0.000, RMSE=0.9941, MAE=0.8096, Eps=0.23
+[EP293] Reward: 4.160, Cov: 0.631, Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+RL Episodes:  97%|▉| 291/300 [00:43<00:00,  9.80it/s, Ep=293, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.23
+[INFO] Episode 293: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+RL Episodes:  98%|▉| 293/300 [00:43<00:00, 10.24it/s, Ep=293, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.23
+[EP294] Reward: 4.160, Cov: 0.631, Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+RL Episodes:  98%|▉| 293/300 [00:43<00:00, 10.24it/s, Ep=294, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.22
+[INFO] Episode 294: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+
+[EP295] Reward: 2.898, Cov: 0.000, Pattern: rated 4 → to a similar item (same genre) → was rated 4 → rated 4
+RL Episodes:  98%|▉| 293/300 [00:43<00:00, 10.24it/s, Ep=295, Reward=2.898, Cov=0.000, RMSE=0.9941, MAE=0.RL Episodes:  98%|▉| 295/300 [00:43<00:00, 10.50it/s, Ep=295, Reward=2.898, Cov=0.000, RMSE=0.9941, MAE=0.8096, Eps=0.22
+[EP296] Reward: 4.160, Cov: 0.631, Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+RL Episodes:  98%|▉| 295/300 [00:43<00:00, 10.50it/s, Ep=296, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.22
+[INFO] Episode 296: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+
+[EP297] Reward: 2.861, Cov: 0.164, Pattern: rated 3 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+RL Episodes:  98%|▉| 295/300 [00:43<00:00, 10.50it/s, Ep=297, Reward=2.861, Cov=0.164, RMSE=0.9935, MAE=0.8101, Eps=0.22
+[INFO] Episode 297: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+RL Episodes:  99%|▉| 297/300 [00:43<00:00,  9.74it/s, Ep=297, Reward=2.861, Cov=0.164, RMSE=0.9935, MAE=0.8101, Eps=0.22
+[EP298] Reward: 2.861, Cov: 0.164, Pattern: rated 3 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+RL Episodes:  99%|▉| 297/300 [00:43<00:00,  9.74it/s, Ep=298, Reward=2.861, Cov=0.164, RMSE=0.9935, MAE=0.8101, Eps=0.22
+[INFO] Episode 298: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+RL Episodes:  99%|▉| 298/300 [00:43<00:00,  9.32it/s, Ep=298, Reward=2.861, Cov=0.164, RMSE=0.9935, MAE=0.8101, Eps=0.22
+[EP299] Reward: 4.160, Cov: 0.631, Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+RL Episodes:  99%|▉| 298/300 [00:43<00:00,  9.32it/s, Ep=299, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.22
+[INFO] Episode 299: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+RL Episodes: 100%|▉| 299/300 [00:43<00:00,  9.20it/s, Ep=299, Reward=4.160, Cov=0.631, RMSE=0.9941, MAE=0.8087, Eps=0.22
+[EP300] Reward: 1.752, Cov: 0.000, Pattern: rated 1 → was rated 4 → rated 4 → was rated 1
+RL Episodes: 100%|▉| 299/300 [00:44<00:00,  9.20it/s, Ep=300, Reward=1.752, Cov=0.000, RMSE=0.9941, MAE=0.8096, Eps=0.22
+[INFO] Episode 300: Top-5 patterns
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies (2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item i1680
+
+============================================================
+
+RL Episodes: 100%|█| 300/300 [00:44<00:00,  8.85it/s, Ep=300, Reward=1.752, Cov=0.000, RMSE=0.9941, MAE=0.RL Episodes: 100%|█| 300/300 [00:44<00:00,  6.81it/s, Ep=300, Reward=1.752, Cov=0.000, RMSE=0.9941, MAE=0.8096, Eps=0.22
+[INFO] Saving results...
+[INFO] Saved C:\Users\jalal\Downloads\COMPER\ml-latest-small\dueling_dqn_project_results\rmse_mae_over_episodes.png
+
+[FINAL] Top-5 discovered patterns:
+
+============================================================
+Top #1 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753  
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441  
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item 
+i1680
+
+============================================================
+Top #2 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753  
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441  
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item 
+i1680
+
+============================================================
+Top #3 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753  
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441  
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item 
+i1680
+
+============================================================
+Top #4 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753  
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441  
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item 
+i1680
+
+============================================================
+Top #5 | Reward=4.1605 | Coverage=0.631 | Simplicity=0.000
+Pattern: rated 4 → to a similar item (same genre) → to a similar item (same genre) → to a similar item (same genre)
+  Example stories:
+   - Example 1: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Patriot, The (2000)) → Item i3753  
+   - Example 2: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Dead Fury (2008)) → to a similar item (same genre) (Benny & Joon (1993)) → Item i1441  
+   - Example 3: User u100 → rated 4 (Keeping the Faith (2000)) → to a similar item (same genre) (Pride and Prejudice and Zombies 
+(2016)) → to a similar item (same genre) (Angels & Demons (2009)) → to a similar item (same genre) (Sliding Doors (1998)) → Item 
+i1680
+
+============================================================
